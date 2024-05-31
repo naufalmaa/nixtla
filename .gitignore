@@ -9,7 +9,7 @@ dist
 .vscode
 .idea
 *.gif
-*.csv
+key.py
 */data/*
 *.parquet
 *.tar.gz
@@ -26,3 +26,4 @@ nbs/.last_checked
 */summary.md
 */*.png
 longhorizon
+nixtla_venv
